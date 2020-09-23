@@ -1,3 +1,4 @@
 print("this was created with R studio")
 print("now on github")
 print("now making another change")
+print("now I know how to commit to Github")
